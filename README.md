@@ -1,4 +1,4 @@
-# Market Basket Analysis
+<img src = 'https://github.com/ugursavci/Market_Basket_Analysis/blob/main/images/1.png'>
 
 Market Basket Analysis is modeled on Association rule mining, i.e., the IF {}, THEN {} construct. For example, IF a customer buys bread, THEN he is likely to buy butter as well. 
 
